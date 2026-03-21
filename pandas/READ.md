@@ -1,4 +1,4 @@
-Projetos para praticar manipulação de dados com Pandas, simulando operações comuns em SQL:
+Projetos para praticar manipulação de dados com Pandas e utilizando da extensão Jupyter, simulando operações comuns em SQL:
 - JOIN
 - GROUP BY
 - ORDER BY

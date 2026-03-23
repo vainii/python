@@ -1,0 +1,12 @@
+cliente_id,nome,idade,cidade,data_cadastro
+1,Ana,23.0,SP,2023-01-10
+2,Bruno,35.0,RJ,2023-02-15
+3,Carlos,,SP,2023-03-20
+4,Daniela,29.0,,2023-01-10
+5,Eduardo,40.0,MG,
+6,Fernanda,22.0,SP,2023-05-22
+2,Bruno,35.0,RJ,2023-02-15
+7,Gabriel,,BA,2023-06-30
+8,,31.0,SP,2023-07-01
+9,Igor,28.0,RJ,2023-08-12
+10,João,45.0,MG,2023-09-05

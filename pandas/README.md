@@ -10,4 +10,4 @@ Os dados foram gerados artificialmente através do Chat GPT e contêm inconsist�
 - dados incompletos
 
 Técnicas utilizadas:
-- pandas (merge, groupby, fillna, dropna, etc)
+- pandas (merge, groupby, sort_values, drop_duplicates, etc.)
